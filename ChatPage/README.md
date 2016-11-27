@@ -6,5 +6,5 @@
 
 ***
 http://socket.io/get-started/chat/
-https://segmentfault.com/a/1190000004925844
+https://segmentfault.com/a/1190000003769519
 ***
