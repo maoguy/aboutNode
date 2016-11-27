@@ -2,4 +2,9 @@
 
 ***
 
-参考：https://segmentfault.com/a/1190000004925844
+## 参考
+
+***
+http://socket.io/get-started/chat/
+https://segmentfault.com/a/1190000004925844
+***
